@@ -1,0 +1,4 @@
+gmail:
+  user_name: 'sender_email@gmail.com'
+  password: 'sender_gmail_password'
+  recipient: 'recipient_email@gmail.com'
